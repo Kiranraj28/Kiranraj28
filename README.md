@@ -2,7 +2,7 @@
 
 ### Based in Chennai | Passionate about delivering impactful AI solutions
 
-_Machine Learning | Data Scientist | Time Series Expert | Deep Learning | Python | TensorFlow | Keras_
+_Data Scientist | Machine Learning | Time Series Expert | Deep Learning | NLP | Python | TensorFlow | Keras_
 
 Welcome to my GitHub profile! I'm a certified Data Scientist specialized in building and deploying scalable AI and ML solutions. My expertise covers deep learning, time series forecasting, and data science projects that deliver real-world impact. I enjoy exploring new technologies and collaborating on innovative analytics.
 
