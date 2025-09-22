@@ -74,11 +74,11 @@ Welcome to my GitHub profile! I'm a certified Data Scientist specialized in buil
 
 ## 📚 Certifications
 
-![DataMites](https://img.shields.io/badge/DataMites-blue?style=for-the-badge&logo=databricks&logoColor=white) ### Certified Data Scientist  
+ ### Certified Data Scientist ![DataMites](https://img.shields.io/badge/DataMites-blue?style=for-the-badge&logo=databricks&logoColor=white)  
 
-![IABAC](https://img.shields.io/badge/IABAC-003366?style=for-the-badge&logo=IABAC&logoColor=white)  ### IABAC Certified Professional  
+### IABAC Certified Professional ![IABAC](https://img.shields.io/badge/IABAC-003366?style=for-the-badge&logo=IABAC&logoColor=white)    
 
-![NASSCOM](https://img.shields.io/badge/NASSCOM-008000?style=for-the-badge&logo=nasscom&logoColor=white) ### NASSCOM Data Science Certification  
+### NASSCOM Data Science Certification  ![NASSCOM](https://img.shields.io/badge/NASSCOM-008000?style=for-the-badge&logo=nasscom&logoColor=white)  
 
 
 ---
