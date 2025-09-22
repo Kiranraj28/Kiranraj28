@@ -60,10 +60,7 @@ Welcome to my GitHub profile! I'm a certified Data Scientist specialized in buil
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiran-raj-b1b724345)  
-[![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:kiranraj0660@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://preview--kiran-raj-portfolio.lovable.app/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kiranrajt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiran-raj-b1b724345)  [![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:kiranraj0660@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://preview--kiran-raj-portfolio.lovable.app/)  [![Kaggle](https://img.shields.io/badge/Kaggle-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kiranrajt)
 
 ---
 
@@ -84,14 +81,7 @@ Welcome to my GitHub profile! I'm a certified Data Scientist specialized in buil
 ### IABAC Certified Professional  
 ![IABAC](https://img.shields.io/badge/IABAC-003366?style=for-the-badge&logo=IABAC&logoColor=white)  
 
-- Data Science & Machine Learning Expert  
-- Advanced AI Practitioner
-
 ### NASSCOM Data Science Certification  
 ![NASSCOM](https://img.shields.io/badge/NASSCOM-008000?style=for-the-badge&logo=nasscom&logoColor=white)
 
 ---
-
-## 📈 Stats
-
-![Kiran Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiranraj28&show_icons=true&theme=radical)
