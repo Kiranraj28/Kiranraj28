@@ -1,51 +1,66 @@
-# Hi, I'm Kiran Raj! 👋
+# Hi there, I'm Kiran Raj! 👋
 
-### Certified Data Scientist | AI Solutions Developer | Time Series Expert
+### Based in Chennai | Passionate about delivering impactful AI solutions
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kiran-raj-b1b724345" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:kiranraj0660@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://preview--kiran-raj-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web" alt="Portfolio">
-  </a>
-  <a href="https://www.kaggle.com/kiranrajt" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-orange?style=for-the-badge&logo=kaggle" alt="Kaggle">
-  </a>
-</div>
+_Data Scientist | Machine Learning | Time Series Expert | Deep Learning | NLP | Python | TensorFlow | Keras_
+
+Welcome to my GitHub profile! I'm a certified Data Scientist specialized in building and deploying scalable AI and ML solutions. My expertise covers deep learning, time series forecasting, and data science projects that deliver real-world impact. I enjoy exploring new technologies and collaborating on innovative analytics.
 
 ---
 
-I'm a **Certified Data Scientist** based in Chennai, specializing in building and deploying scalable **AI and Machine Learning solutions**. My work focuses on creating measurable business impact, with expertise in **Deep Learning**, **Time Series Forecasting**, and **Natural Language Processing**.
+## 🛠️ Technologies & Tools
+
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![seaborn](https://img.shields.io/badge/seaborn-76B900?style=for-the-badge&logo=python&logoColor=white)
+![sql](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![powerbi](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1082C6?style=for-the-badge&logo=spacy&logoColor=white)
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🎯 Skills
 
-<p>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-</p>
+### Programming Languages
+- Python
 
-### **Core Competencies**
-- **Machine Learning:** Regression, Classification, Clustering, Ensemble Methods
-- **Deep Learning:** CNN, RNN, LSTM, GRU
-- **Time Series Analysis:** AR, MA, ARIMA, SARIMA
-- **Natural Language Processing (NLP):** Text Preprocessing, Word Embeddings
+### Frameworks & Libraries
+- NumPy, Pandas, Matplotlib, Seaborn
+- Scikit-learn, TensorFlow, Keras
+
+### Machine Learning Techniques
+- Regression, Classification, Clustering, Dimensionality Reduction
+- Ensemble Methods: Bagging, Boosting, Voting, Stacking, Blending
+
+### Deep Learning Models
+- Artificial Neural Network (ANN), Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU)
+
+### Time Series Analysis
+- Autoregressive (AR), Moving Average (MA), ARIMA, SARIMA
+
+### Natural Language Processing (NLP)
+- Text Preprocessing, Tokenization, Word Embeddings
+
+### Databases
+- SQL, NoSQL (MongoDB)
+
+### Tools & Environments
+- Jupyter Notebook, VSCode, Git, Power BI, Tableau
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiran-raj-b1b724345)  [![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:kiranraj0660@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://preview--kiran-raj-portfolio.lovable.app/)  [![Kaggle](https://img.shields.io/badge/Kaggle-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kiranrajt)
 
 ---
 
@@ -54,14 +69,16 @@ I'm a **Certified Data Scientist** based in Chennai, specializing in building an
 * **Rice Disease Detection:** Developed a **CNN model** that achieved a **95.8% accuracy** in rice disease detection, showcasing strong deep learning capabilities.
 * **Employee Performance Prediction:** Built a **Random Forest model** to predict employee performance, achieving **89% model accuracy**.
 * **COVID-19 Time Series Forecasting:** Engineered a **SARIMAX model** to forecast COVID-19 cases, achieving an **8.5% MAPE**.
-* **Blockchain E-Voting System:** Architected a secure, scalable, and fully functional **Blockchain E-Voting system**.
 
 ---
 
 ## 📚 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Certified%20Data%20Scientist-DataMites-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="DataMites Certification">
-  <img src="https://img.shields.io/badge/IABAC%20Certified%20Professional-003366?style=for-the-badge&logo=IABAC&logoColor=white" alt="IABAC Certification">
-  <img src="https://img.shields.io/badge/NASSCOM%20Data%20Science%20Certification-008000?style=for-the-badge&logo=nasscom&logoColor=white" alt="NASSCOM Certification">
-</div>
+![DataMites](https://img.shields.io/badge/DataMites-blue?style=for-the-badge&logo=databricks&logoColor=white) ### Certified Data Scientist  
+
+![IABAC](https://img.shields.io/badge/IABAC-003366?style=for-the-badge&logo=IABAC&logoColor=white)  ### IABAC Certified Professional  
+
+![NASSCOM](https://img.shields.io/badge/NASSCOM-008000?style=for-the-badge&logo=nasscom&logoColor=white) ### NASSCOM Data Science Certification  
+
+
+---
